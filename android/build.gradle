@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
 
-    namespace "zesage.motion_sensors" 
+    namespace "finaldev.motion_sensors" 
     compileSdkVersion 31
 
     sourceSets {
