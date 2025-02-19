@@ -1,3 +1,5 @@
+package android
+
 group 'finaldev.motion_sensors'
 version '1.0-SNAPSHOT'
 
